@@ -1,0 +1,16 @@
+[
+ {
+  "username": "mrodespin",
+  "name": "Marc Rodriguez",
+  "userimg": "https://avatars2.githubusercontent.com/u/31536387?v=4",
+  "sort": "created",
+  "order": "asc",
+  "includeFork": true,
+  "theme": "dark.css",
+  "types": [
+   "all"
+  ],
+  "twitter": "mrodespin",
+  "linkedin": "marcrodriguezespinach"
+ }
+]
